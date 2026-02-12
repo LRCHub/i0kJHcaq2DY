@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Cold Tears（feat. 星宮とと）",
+  "base_artist": "TEMPLIME",
+  "createdAt": "2026-02-12T13:59:26.383038Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cold Tears (feat. 星宮とと)",
+      "artist": "TEMPLIME",
+      "has_synced": false,
+      "path": "select/pl_01_Cold_Tears_(feat._星宮とと)_TEMPLIME.txt"
+    }
+  ]
+}
